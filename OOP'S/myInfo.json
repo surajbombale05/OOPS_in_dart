@@ -1,0 +1,18 @@
+{
+    "id":1 ,
+    "name":"suraj",
+    "age":14,
+    "phoneNo":"01235",
+    "displayName":"vishal",
+    "gender":"male",
+    "batch":2,
+    "friend":"shubham",
+    "fathername":"baban",
+    "motherName":"nanda",
+    "sister":"urmila",
+    "brother":"somesh",
+    "branch":"Cs ",
+    "farmInAcre":5,
+    "company":"baap company"
+
+}
